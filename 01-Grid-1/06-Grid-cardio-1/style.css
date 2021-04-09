@@ -1,0 +1,68 @@
+/* nejsme vcerejsi, pouzivame moderni box model */
+html { box-sizing: border-box;}
+*, ::after, ::before { box-sizing: inherit; }
+
+.kontejner > div {
+	padding: 20px;
+	font: 24px/1 sans-serif;
+	color: white;
+}
+
+.kontejner > div > :first-child {
+	margin-top: 0;
+}
+
+.kontejner > div > :last-child {
+	margin-bottom: 0;
+}
+
+
+/* ---------------------------------------------------- */
+
+/* Nastyluj jednotlivé bloky podle zadání na obrázku */
+
+.logo {
+	background-color: #55efc4;
+}
+
+.hlavicka {
+	background-color: #74b9ff;
+}
+
+.menu {
+	background-color: #ff7675;
+}
+
+.clanek1 {
+	background-color: #fdcb6e;
+}
+
+.clanek2 {
+	background-color: #a29bfe;
+}
+
+.reklama1 {
+	background-color: #d63031;
+}
+
+.reklama2 {
+	background-color: #00b894;
+}
+
+.foto1 {
+	background-color: #e84393;
+}
+
+.foto2 {
+	background-color: #e84393;
+}
+
+.foto3 {
+	background-color: #e84393;
+}
+
+.paticka {
+	background-color: #636e72;
+}
+
+

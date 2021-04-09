@@ -1,0 +1,29 @@
+Ahoj.
+
+Jsi princezna v pohádkovém království, které napadl
+velký a nepořádný drak! Drak hrozí, že zničí....
+
+MOMENT! Tuhle pohádku už jsem jednou slyšela, ne?
+
+Ano, slyšela. Grid cardio 1 a 2 jsou stejné příklady,
+jako jsme měli v lekcích o flexboxu.
+
+Vyzkoušej si, jak se stejné rozložení dělá pomocí
+CSS gridu. Zjistíš, že některé se řeší gridem mnohem
+jendoduššeji než flexboxem. To bude platit hlavně pro
+příklady ve složce Flexbox-cardio-2. U některých příkladů
+to vyjde nastejno a u jiných vyhraje na množství kódu
+flexbox.
+
+I když se jedná o stejné příklady, které už jsi jednou
+dělala, opravdu ti doporučuji si je zkusit.
+
+Tyto příklady ti mají pomoci procvičit si základy
+vytváření CSS gridu i ukázat, že Grid není náhrada
+flexboxu, na který bys mohla zapomenout, ale že tyto
+technologie se doplňují a používají se souběžně.
+
+A my jako autoři CSS kódu se radujeme, protože máme
+k dispozici obě a můžeme je používat, jak se nám zlíbí.
+
+Jupííí.
