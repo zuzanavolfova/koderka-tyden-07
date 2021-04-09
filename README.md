@@ -32,4 +32,4 @@ Lepší varianta je naučit se prakticky pracovat s Gitem a GitHubem a repozitá
    git clone https://github.com/Czechitas-Koderka-podklady/koderka-tyden-07git
    ```
 
-5. Ve tvé složce (u mě *KODERKA*) se vytvoří složka `koderka-tyden-06` a do ní se zkopírují všechny potřebné soubory.
+5. Ve tvé složce (u mě *KODERKA*) se vytvoří složka `koderka-tyden-07` a do ní se zkopírují všechny potřebné soubory.
