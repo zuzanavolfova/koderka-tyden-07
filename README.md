@@ -29,7 +29,7 @@ Lepší varianta je naučit se prakticky pracovat s Gitem a GitHubem a repozitá
 
 4. Na příkazové řádce spusť příkaz `git clone adresa.git`. Místo `adresa.git` doplň adresu repozitáře, kterou sis z GitHubu zkopírovala v prvním kroku. Celý příkaz tak např. může vypadat takto:
    ```
-   git clone https://github.com/Czechitas-Koderka-podklady/koderka-tyden-07git
+   git clone https://github.com/Czechitas-Koderka-podklady/koderka-tyden-07.git
    ```
 
 5. Ve tvé složce (u mě *KODERKA*) se vytvoří složka `koderka-tyden-07` a do ní se zkopírují všechny potřebné soubory.
