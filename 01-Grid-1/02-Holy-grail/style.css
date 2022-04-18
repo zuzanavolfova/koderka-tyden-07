@@ -18,3 +18,22 @@ body {
 
 /* ---------------------------------------------------- */
 
+.kontejner{
+	display: grid;
+	gap: 20px;
+	grid-template-columns:200px 1fr 250px;
+	grid-template-rows: 200px auto 100px;
+}
+
+.hlavicka {
+	grid-column: span 3;
+
+}
+.sloupec.levy {
+	grid-column: 1;
+	grid-row: 2; 
+}
+
+.sloupec.paticka {
+	grid-column: span 3;
+}

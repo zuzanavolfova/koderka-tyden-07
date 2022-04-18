@@ -21,28 +21,48 @@ html { box-sizing: border-box;}
 
 /* Nastyluj jednotlivé bloky podle zadání na obrázku */
 
+.kontejner {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-template-rows: 100px auto auto auto 250px 100px;
+	gap: 20px;
+	color: white;
+}
 .logo {
 	background-color: #55efc4;
+	grid-column: 1/2;
+	grid-row: 1/2;
 }
 
 .hlavicka {
 	background-color: #74b9ff;
+	grid-column: 2 / span 2;
+
 }
 
 .menu {
 	background-color: #ff7675;
+	grid-column: 1 /2;
+	grid-row: 2;
+	
 }
 
 .clanek1 {
 	background-color: #fdcb6e;
+	grid-column: 2 / span 2;
+	grid-row: 2 / span 2;
 }
 
 .clanek2 {
 	background-color: #a29bfe;
+	grid-column: 1 / span 2;
+	grid-row: 4;
 }
 
 .reklama1 {
 	background-color: #d63031;
+	grid-column: 1;
+	grid-row: 3;
 }
 
 .reklama2 {
@@ -63,6 +83,7 @@ html { box-sizing: border-box;}
 
 .paticka {
 	background-color: #636e72;
+	grid-column: span 3;
 }
 
 

@@ -4,3 +4,20 @@ html { box-sizing: border-box; }
 
 /* ---------------------------------------------------- */
 
+.kontejner {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(6, 300px);
+    gap: 1px;
+}
+
+.foto img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.foto:nth-child(5n) {
+grid-column: span 2;
+grid-row: span 2
+}
